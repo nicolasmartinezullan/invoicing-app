@@ -1,0 +1,30 @@
+{
+  "name": "invoicing-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "lodash": "^4.17.10",
+    "nodemailer": "^4.6.4",
+    "nodemon": "^1.17.4",
+    "path": "^0.12.7",
+    "sqlite3": "^4.0.0",
+    "umzug": "^2.1.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
